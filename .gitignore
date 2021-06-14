@@ -1,0 +1,11 @@
+.idea/
+.vscode/
+.DS_Store
+
+shorty-challenge
+*app.ini
+*.log
+*.log.*
+
+*cp.out
+*coverage.html
